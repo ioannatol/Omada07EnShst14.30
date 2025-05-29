@@ -43,7 +43,7 @@
 
 Ο πλήρης κώδικας βρίσκεται στον φάκελο [`/src`](./src).
 
-## Photos & Videos Features
+## 📷 Photos & Videos Features
 Φωτογραφίες και βίντεο βρίσκονται στον φάκελο [`/Images`](./Images) και [`/Videos`](./Videos) αντίστοιχα.
 
 
