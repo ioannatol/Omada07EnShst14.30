@@ -43,6 +43,10 @@
 
 Ο πλήρης κώδικας βρίσκεται στον φάκελο [`/src`](./src).
 
+## Photos & Videos Features
+Φωτογραφίες και βίντεο βρίσκονται στον φάκελο [`/Images`](./Images) και [`/Videos`](./Videos) αντίστοιχα.
+
+
 ## ⚙️ Installation & Usage
 
 1. **Flash MicroPython** firmware στο Maker Pi RP2040
