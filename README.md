@@ -13,7 +13,7 @@
 
 ## 📷 Φωτογραφίες
 
-![Robot Photo](images/robot_photo.jpg)
+![Robot Photos]()
 
 ## 🧠 Λειτουργία
 
