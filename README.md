@@ -59,6 +59,11 @@
 ## 🧑‍💻 Contributors
 
 * **Charalampos Efthymiadis**
+* **Athanasia Karadimoy**
+* **Stelios Grigoroudis**
+* **Ioanna Toliopoulou**
+
+
 
 
 ## 📜 License
